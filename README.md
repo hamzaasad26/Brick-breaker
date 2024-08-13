@@ -1,6 +1,6 @@
 # Brick Breaker
 
-This repository contains the source code for a simulation of Brick Breaker (1999) implemented entirely in Assembly Language (x86) using Microsoft Macro Assembler (MASM). This project was completed as part of the final assignment for the Computer Organisation & Assembly Language (EE2003) course.
+This repository contains the source code for a simulation of Brick Breaker (1999) implemented entirely in Assembly Language (x86) using Microsoft Macro Assembler (MASM) alongside Irvine. This project was completed as part of the project for the Computer Organisation & Assembly Language (EE2003) course.
 
 ## Introduction
 
@@ -23,8 +23,8 @@ Brick Breaker is a classic arcade platformer where players control a paddle to d
 
 ## Build Instructions
 
-1. **Setup MASM**: Ensure Microsoft Macro Assembler (MASM) is installed on your system.
-2. **Assemble and Link**: Use MASM to assemble and link the source code files.
+1. **Setup MASM & Irvine**: Ensure Microsoft Macro Assembler (MASM) is installed on your system.
+2. **Assemble and Link**: Use MASM to assemble and link the source code files and give path for irvine.
 3. **Run the Game**: Execute the resulting binary file to start playing.
 
 ## Usage
