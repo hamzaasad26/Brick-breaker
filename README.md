@@ -33,6 +33,9 @@ Brick Breaker is a classic arcade platformer where players control a paddle to d
 - **Deflect the Ball**: Bounce the ball off the paddle to hit and destroy the bricks.
 - **Advance Levels**: Clear all bricks to proceed to the next level.
 
+## Menu reference
+- Huzaifa khan : https://github.com/huzaifakhan04/brick-breaker-game
+  
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
