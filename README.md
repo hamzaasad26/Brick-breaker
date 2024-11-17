@@ -24,7 +24,7 @@ Brick Breaker is a classic arcade platformer where players control a paddle to d
 ## Build Instructions
 
 1. **Setup MASM & Irvine**: Ensure Microsoft Macro Assembler (MASM) is installed on your system.
-2. **Assemble and Link**: Use MASM to assemble and link the source code files and give path for irvine.
+2. **Assemble and Link**: Use MASM to assemble and link the source code files and give a path for Irvine.
 3. **Run the Game**: Execute the resulting binary file to start playing.
 
 ## Usage
@@ -34,8 +34,23 @@ Brick Breaker is a classic arcade platformer where players control a paddle to d
 - **Advance Levels**: Clear all bricks to proceed to the next level.
 
 ## Menu reference
-- Huzaifa khan : https://github.com/huzaifakhan04/brick-breaker-game
+- Huzaifa Khan: https://github.com/huzaifakhan04/brick-breaker-game
   
-## License
+# Custom Non-Commercial License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This software and associated files (the "Software") are free to use, modify, and distribute under the following conditions:
+
+## 1. Non-Commercial Use Only
+The Software may only be used for personal or educational purposes. Use of the Software or any derivatives of it for commercial purposes is strictly prohibited.
+
+## 2. Attribution
+If you use or modify the Software, you must include proper attribution to the original author.
+
+## 3. No Warranty
+The Software is provided "as is," without warranty, express or implied. The author is not responsible for any damage, misuse, or issues that arise from the use of the Software.
+
+## 4. Liability Disclaimer
+The author is not liable for any consequences, legal or otherwise, arising from the use, misuse, or inability to use the Software.
+
+By using the Software, you agree to the terms of this license.
+
