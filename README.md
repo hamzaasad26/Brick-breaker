@@ -36,7 +36,7 @@ Brick Breaker is a classic arcade platformer where players control a paddle to d
 ## Menu reference
 - Huzaifa Khan: https://github.com/huzaifakhan04/brick-breaker-game
   
-# Custom Non-Commercial License
+## Custom Non-Commercial License
 
 This software and associated files (the "Software") are free to use, modify, and distribute under the following conditions:
 
